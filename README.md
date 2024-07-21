@@ -18,12 +18,7 @@ This repository contains the data and analysis for a 28-day study evaluating the
 2. Statistically significant decrease in crow's feet severity (p < 0.05)
 3. Variations in treatment response across different demographic groups
 
-## Repository Contents
 
-- `data/`: Raw data from the study
-- `analysis/`: Scripts for statistical analysis (including Wilcoxon signed-rank test)
-- `results/`: Graphs and tables of study outcomes
-- `docs/`: Detailed methodology and full study report
 
 ## Statistical Analysis
 
